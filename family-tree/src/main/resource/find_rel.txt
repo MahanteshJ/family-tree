@@ -1,0 +1,5 @@
+GET_RELATIONSHIP Ranjitha Sister-In-Law
+GET_RELATIONSHIP Ragini Sister-In-Law
+GET_RELATIONSHIP Mandara Paternal-Uncle
+GET_RELATIONSHIP Mandara Maternal-Uncle
+ADD_CHILD Ramyaa AraiJu FEMALE 
